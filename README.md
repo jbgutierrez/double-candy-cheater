@@ -13,7 +13,7 @@ Little python script to help you cheat at the [double candy game](https://itunes
 1. Attach your iphone to your mac
 2. Open QuickTime and start a New Movie Recording
 3. Open your terminal and run `python double-candy-cheater.py`
-4. Listen your speaker and **cheat!**
+4. Listen to your speaker and **cheat!**
 
 ![screenshoot](https://raw.githubusercontent.com/jbgutierrez/double-candy-cheater/master/screenshoot.jpg)
 
